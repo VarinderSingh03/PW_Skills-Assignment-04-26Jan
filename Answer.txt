@@ -1,0 +1,35 @@
+Assignment Question's | Day - 6 | 26 - Jan
+
+1. What is Programming language ?
+Ans -  A Programming language is a set of instruction's written by human's; for computer to perform a certain task and further it is generally written using High-level programming language's like Java, C++, C, Python etc. The program is converted to machine code using the compiler or the interpreter of the written language.
+
+2. Why do we need a programming language?
+Ans - We need programming language's; 
+	1. to make our life more easier by automating the work using machine's
+	2. to develop new innovative gadgets
+	3. to increase the power of computer
+	4. to contribute, develop and enhace the working of non-tech industries like marketing, healthcare, travel etc.
+
+3. What are the features of Java?
+Ans - There are many feature's of Java;
+	1. Java is object oriented language which means we can use class, object, state and methods which is ver usefull to solve the real world problem.
+	2. Java is an Portable and Platform Independent Language which means it's compiled code (.class file) also known as byte code can run on all operating system using an interpretor (here, for java it is JVM).
+
+4. What is an Object ?
+Ans - An object is a real world entity which have state (data values) and behavior (function's).
+	For Example; Object = Dog
+			      State = 4 leg's , 1 tail, 2 eye's, 1 mouth, etc
+			      Behavior = Barking , Siting, Standing, etc. 
+
+5. What is a class ?
+Ans - A class is a blueprint which contains collections of item's having the same features from which object's can be made. A Class contain's ;
+	1. Interfaces
+	2. Superclass (Parent's Class)
+	3. Nested Class
+	4. Constructor
+	5. Block's 
+	6. Methods
+	7. Fields
+
+6. Explain about the main() method in Java ?
+Ans - The main() is a compulsary method from where the java (JVM) starts executing the program files.
